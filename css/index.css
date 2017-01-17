@@ -1,0 +1,16 @@
+p.intro {
+  color: pink;
+  font-weight: bold;
+}
+
+h2.intro {
+  color: red;
+}
+
+img.intro {
+image-orientation: flip;
+}
+
+.important {
+  color: blue;
+}
